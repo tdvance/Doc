@@ -1,0 +1,1 @@
+State maintained by a switch

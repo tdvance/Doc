@@ -1,0 +1,1 @@
+State when character walks while crouched

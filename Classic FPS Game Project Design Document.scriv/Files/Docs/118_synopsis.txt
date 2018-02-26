@@ -1,0 +1,1 @@
+A bot knows the (likely) location of an ammo or weapon pickup

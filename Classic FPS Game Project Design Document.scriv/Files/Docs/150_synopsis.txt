@@ -1,0 +1,1 @@
+Transmits an image to a monitor actor

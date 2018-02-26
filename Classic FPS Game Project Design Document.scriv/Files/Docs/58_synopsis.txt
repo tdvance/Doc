@@ -1,0 +1,1 @@
+Recommended values for sizes of walls, windows, and so on.

@@ -1,0 +1,1911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="Tvanc124436" Modified="2018-02-26 15:23:08 -0500" ModID="6FA4515D-3C00-4322-8CAD-3C92C04F4C14">
+    <Binder>
+        <BinderItem ID="12" UUID="0E804D2D-A3E2-40DD-856B-3E889E57F710" Created="2007-03-25 16:48:19 -0500" Modified="2014-05-23 05:12:06 -0500" Type="Text">
+            <Title>Non-Fiction Format</Title>
+            <MetaData>
+                <LabelID>5</LabelID>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <FileExtension>rtf</FileExtension>
+                <IconFileName>Information.png</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>117,0</TextSelection>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+        </BinderItem>
+        <BinderItem ID="0" UUID="3FA74D50-2B26-46FC-A9A8-9661879F8971" Created="2006-11-04 12:27:29 -0500" Modified="2007-03-25 17:00:41 -0500" Type="DraftFolder">
+            <Title>Manuscript</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="38" UUID="743D0DB0-4F73-43C2-A278-C5AF51DC002C" Created="2018-02-25 19:57:06 -0500" Modified="2018-02-26 09:01:33 -0500" Type="Folder">
+                    <Title>Game Information</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <StatusID>2</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="191" UUID="D6B1592D-13CE-42EC-8918-71C2083C8B74" Created="2018-02-26 09:01:33 -0500" Modified="2018-02-26 15:23:08 -0500" Type="Text">
+                            <Title>Game Information Body</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <PageBreakBefore>Yes</PageBreakBefore>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="39" UUID="DA226EE0-1B63-4F47-ABAC-552C27994713" Created="2018-02-25 19:57:36 -0500" Modified="2018-02-26 09:03:46 -0500" Type="Folder">
+                    <Title>Folder Structure</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <StatusID>2</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="192" UUID="783D9F60-4DBE-4F22-AFED-EF71747BCC7D" Created="2018-02-26 09:03:46 -0500" Modified="2018-02-26 09:04:07 -0500" Type="Text">
+                            <Title>Folder Structure Body</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <PageBreakBefore>Yes</PageBreakBefore>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>175,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="40" UUID="554BFBDD-18BE-4BAD-B041-3FFFEDCCD06F" Created="2018-02-25 19:57:46 -0500" Modified="2018-02-25 21:03:42 -0500" Type="Folder">
+                    <Title>Assets</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="46" UUID="CF2806A2-0B44-40C3-B709-DF31022B917B" Created="2018-02-25 20:09:33 -0500" Modified="2018-02-26 08:57:47 -0500" Type="Text">
+                            <Title>Material Bases</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="51" UUID="BBBD8A9F-C173-45F4-9D0F-3370112DDDF9" Created="2018-02-25 20:11:48 -0500" Modified="2018-02-25 21:18:26 -0500" Type="Text">
+                                    <Title>PBR Settings</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>138,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="52" UUID="30B6E88B-E7E3-4040-A81F-1B56E2A6BF6F" Created="2018-02-25 20:12:03 -0500" Modified="2018-02-25 21:18:45 -0500" Type="Text">
+                                    <Title>Material Masters</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>50,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="53" UUID="C13A5F5C-0089-4F3B-881D-C1F60637D6CE" Created="2018-02-25 20:12:08 -0500" Modified="2018-02-25 21:18:56 -0500" Type="Text">
+                                    <Title>Parameter Names</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>102,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="54" UUID="194AA1C8-4761-4632-8388-28B314443D91" Created="2018-02-25 20:12:12 -0500" Modified="2018-02-25 21:19:13 -0500" Type="Text">
+                                    <Title>Material Functions and Layers</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>44,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="55" UUID="EBE7EAAF-E303-4C1B-AD91-8BB3626998AB" Created="2018-02-25 20:12:18 -0500" Modified="2018-02-25 21:19:23 -0500" Type="Text">
+                                    <Title>Textures</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1244,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="56" UUID="2BD4615A-2BAA-4393-8A20-32158896683F" Created="2018-02-25 20:12:23 -0500" Modified="2018-02-25 21:19:33 -0500" Type="Text">
+                                    <Title>Particles</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>222,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="58" UUID="19B3AD7D-7D21-4A72-A08C-4137A31CB42F" Created="2018-02-25 20:12:33 -0500" Modified="2018-02-25 21:19:53 -0500" Type="Text">
+                                    <Title>Architectural Parameters</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>106,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="59" UUID="D9481AFD-86D4-4711-8E2A-FCB77F19EDD7" Created="2018-02-25 20:12:37 -0500" Modified="2018-02-25 21:20:18 -0500" Type="Text">
+                                    <Title>Static Meshes</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>371,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="60" UUID="E35A3C50-DDAA-42D1-BF35-0492C49DD6FE" Created="2018-02-25 20:12:42 -0500" Modified="2018-02-26 08:57:43 -0500" Type="Text">
+                            <Title>Gameplay Base</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="75" UUID="BA98A528-C32D-4BDB-BFDA-EE0CBF1DAA9F" Created="2018-02-25 20:34:45 -0500" Modified="2018-02-25 21:20:44 -0500" Type="Text">
+                                    <Title>Gameplay States</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>15,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="162" UUID="DE4A1091-2098-4C02-B8F8-C9AB09CA3445" Created="2018-02-25 20:42:28 -0500" Modified="2018-02-26 09:04:57 -0500" Type="Text">
+                                            <Title>Main Menu</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>382,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                            <Children>
+                                                <BinderItem ID="163" UUID="C3C423E6-FA51-458D-B771-5C95A12BFE7C" Created="2018-02-25 20:42:56 -0500" Modified="2018-02-25 21:21:17 -0500" Type="Text">
+                                                    <Title>Main Menu Classes</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <FileExtension>rtf</FileExtension>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>411,0</TextSelection>
+                                                        <Target Type="Words">0</Target>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                            </Children>
+                                        </BinderItem>
+                                        <BinderItem ID="164" UUID="7BC7B315-48C8-4FEB-B4DF-3D58D05E83D2" Created="2018-02-25 20:43:10 -0500" Modified="2018-02-25 21:21:26 -0500" Type="Text">
+                                            <Title>Pause Menu</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>10,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="165" UUID="29FB88CE-8010-4876-A433-41F310D5E031" Created="2018-02-25 20:43:25 -0500" Modified="2018-02-25 21:21:38 -0500" Type="Text">
+                                            <Title>HUD</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="77" UUID="51788CF3-6E32-4DE4-9EA7-B430A4C7407D" Created="2018-02-25 20:35:14 -0500" Modified="2018-02-25 21:22:18 -0500" Type="Text">
+                                    <Title>ClassicFPS Game Mode</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>422,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="78" UUID="A4A6E3AB-6D99-4C23-9B99-47D79B1DBD37" Created="2018-02-25 20:35:18 -0500" Modified="2018-02-25 21:22:35 -0500" Type="Text">
+                                    <Title>ClassicFPS Game State</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>70,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="79" UUID="05E48CA4-9453-4355-82C1-E314950881E5" Created="2018-02-25 20:35:21 -0500" Modified="2018-02-25 21:23:01 -0500" Type="Text">
+                                    <Title>ClassicFPS Player State</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>40,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="80" UUID="F18EF723-9ABF-4C52-8D5F-6E172CF8DC6E" Created="2018-02-25 20:35:24 -0500" Modified="2018-02-26 09:34:16 -0500" Type="Text">
+                                    <Title>Gameplay Effects</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>139,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="61" UUID="B429A371-3DF4-48CD-A931-042023E2E066" Created="2018-02-25 20:12:51 -0500" Modified="2018-02-26 08:57:38 -0500" Type="Text">
+                            <Title>Character</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="81" UUID="ECEB4FCE-4AA9-4C6F-8641-BCE2EB03AC4E" Created="2018-02-25 20:35:37 -0500" Modified="2018-02-25 21:24:16 -0500" Type="Text">
+                                    <Title>Default Character Properties</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>118,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="82" UUID="F4ADFD50-3B7D-4915-8BDD-CC09A07FFBE1" Created="2018-02-25 20:35:51 -0500" Modified="2018-02-25 21:24:34 -0500" Type="Text">
+                                    <Title>Character Capabilities</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>884,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="83" UUID="82CD4B80-85FD-457F-9923-238FBD701555" Created="2018-02-25 20:35:59 -0500" Modified="2018-02-25 21:24:51 -0500" Type="Text">
+                                    <Title>Action Bindings</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>104,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="84" UUID="86C25F32-22C3-4F1C-9C65-2275F2382EDD" Created="2018-02-25 20:36:03 -0500" Modified="2018-02-25 21:25:09 -0500" Type="Text">
+                                    <Title>Axis Bindings</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>100,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="85" UUID="DCDAFE0E-565F-4C2A-9C37-EEEE4AD5128F" Created="2018-02-25 20:36:06 -0500" Modified="2018-02-25 21:25:21 -0500" Type="Text">
+                                    <Title>Character Properties</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>114,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="86" UUID="DCADD0FC-5DF6-4457-B7E7-0A20C75FD4DD" Created="2018-02-25 20:36:10 -0500" Modified="2018-02-25 21:25:35 -0500" Type="Text">
+                                    <Title>Character Property Value Modification</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>37,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="166" UUID="5A782B04-C9B0-4D5B-9506-99BD797468E8" Created="2018-02-25 20:43:49 -0500" Modified="2018-02-25 21:25:56 -0500" Type="Text">
+                                            <Title>Health</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>476,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="167" UUID="D04B581A-8DE7-4753-99A5-974BFA8BA0C0" Created="2018-02-25 20:43:56 -0500" Modified="2018-02-25 21:26:33 -0500" Type="Text">
+                                            <Title>Strength</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>284,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="168" UUID="368E70DC-CE2D-4C45-B2CE-7AA6C72290AE" Created="2018-02-25 20:43:59 -0500" Modified="2018-02-25 21:26:49 -0500" Type="Text">
+                                            <Title>Current Weapon Slot</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>526,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="169" UUID="49182CA5-E1A1-4033-9CE8-C88347E5A9EE" Created="2018-02-25 20:44:02 -0500" Modified="2018-02-25 21:27:07 -0500" Type="Text">
+                                            <Title>Third Person Mode</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>91,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="170" UUID="7F8C07E1-2044-4401-B827-BA3EA423E2C8" Created="2018-02-25 20:44:04 -0500" Modified="2018-02-25 21:27:25 -0500" Type="Text">
+                                            <Title>Enemies Killed</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>175,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="171" UUID="DF208845-8A0D-41B7-B11B-DA63681170A8" Created="2018-02-25 20:44:06 -0500" Modified="2018-02-25 21:27:35 -0500" Type="Text">
+                                            <Title>Secrets Found</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>297,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="172" UUID="E17E7C9B-B9F5-4BA5-BA63-A89993317F7B" Created="2018-02-25 20:44:08 -0500" Modified="2018-02-25 21:27:48 -0500" Type="Text">
+                                            <Title>Powerups Found</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>229,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="173" UUID="8DBA5C54-693E-40DE-85A8-E04928C99153" Created="2018-02-25 20:44:10 -0500" Modified="2018-02-25 21:28:04 -0500" Type="Text">
+                                            <Title>Weapons Found</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>226,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="174" UUID="4320E9A1-C6E6-47C9-94FA-A1D1C5A9D353" Created="2018-02-25 20:44:12 -0500" Modified="2018-02-25 21:28:19 -0500" Type="Text">
+                                            <Title>Ammo Found</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>224,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="175" UUID="2B458C71-36ED-4F61-8018-BA0E35CC879A" Created="2018-02-25 20:44:14 -0500" Modified="2018-02-25 21:28:32 -0500" Type="Text">
+                                            <Title>Health Found</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>230,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="176" UUID="AF97BDE5-4F88-4959-A928-0D913F8D1B51" Created="2018-02-25 20:44:17 -0500" Modified="2018-02-25 21:29:00 -0500" Type="Text">
+                                            <Title>Keys Found</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>288,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="177" UUID="D15861BE-64F9-4C3C-866F-D980BB97CB75" Created="2018-02-25 20:44:20 -0500" Modified="2018-02-25 21:29:21 -0500" Type="Text">
+                                            <Title>Falling Counter</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>307,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="178" UUID="1BB0324A-8317-4B4E-B5A5-D06E7091D135" Created="2018-02-25 20:44:22 -0500" Modified="2018-02-25 21:29:36 -0500" Type="Text">
+                                            <Title>FOV</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>104,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="179" UUID="26792907-DD84-4FFA-805E-C35CB2BF784C" Created="2018-02-25 20:44:25 -0500" Modified="2018-02-25 21:29:48 -0500" Type="Text">
+                                            <Title>Carried Item</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>186,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="180" UUID="0EFACB46-6948-4D89-BAB6-2F71CE59BACB" Created="2018-02-25 20:44:27 -0500" Modified="2018-02-25 21:30:01 -0500" Type="Text">
+                                            <Title>Inventory</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>270,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="181" UUID="761F854F-399A-4FD2-BA82-A22054BA7F17" Created="2018-02-25 20:44:29 -0500" Modified="2018-02-25 21:30:16 -0500" Type="Text">
+                                            <Title>Third Person Camera Arm Length</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="87" UUID="74EE45F0-A51C-434E-8DC6-81A34D1BF2C7" Created="2018-02-25 20:36:17 -0500" Modified="2018-02-25 21:30:35 -0500" Type="Text">
+                                    <Title>Character Structure</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1399,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="88" UUID="7448A67E-8763-4875-BE6E-C79BB0AD1492" Created="2018-02-25 20:36:20 -0500" Modified="2018-02-25 21:30:54 -0500" Type="Text">
+                                    <Title>Character Operating Items</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>551,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="89" UUID="1DF86855-DF82-4468-B698-90AB8C36710E" Created="2018-02-25 20:36:23 -0500" Modified="2018-02-25 21:31:15 -0500" Type="Text">
+                                    <Title>Text Messages</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>267,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="90" UUID="7D4F594C-75B5-42F1-B2CD-098EF13C4B65" Created="2018-02-25 20:36:26 -0500" Modified="2018-02-26 08:57:30 -0500" Type="Text">
+                                    <Title>Character Animation</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="182" UUID="CAAE1F9F-1C57-4D13-9321-DD9D9E9F8147" Created="2018-02-25 20:44:44 -0500" Modified="2018-02-25 21:31:49 -0500" Type="Text">
+                                            <Title>State Machine</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>15,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                            <Children>
+                                                <BinderItem ID="183" UUID="15B6D894-C49F-4150-8C31-DFD172371139" Created="2018-02-25 20:44:53 -0500" Modified="2018-02-25 21:32:01 -0500" Type="Text">
+                                                    <Title>Idle</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <FileExtension>rtf</FileExtension>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>336,0</TextSelection>
+                                                        <Target Type="Words">0</Target>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem ID="184" UUID="9ADE6B4F-D53D-484C-99EB-212DCE2D8860" Created="2018-02-25 20:44:59 -0500" Modified="2018-02-25 21:32:13 -0500" Type="Text">
+                                                    <Title>Jog</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <FileExtension>rtf</FileExtension>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>387,0</TextSelection>
+                                                        <Target Type="Words">0</Target>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem ID="185" UUID="214F2739-9BD2-456B-A1D7-FE3066735D48" Created="2018-02-25 20:45:02 -0500" Modified="2018-02-25 21:32:30 -0500" Type="Text">
+                                                    <Title>Run Jump</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <FileExtension>rtf</FileExtension>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>150,0</TextSelection>
+                                                        <Target Type="Words">0</Target>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem ID="186" UUID="CB4FA7A7-1795-4C3F-BCB5-10581F9521EE" Created="2018-02-25 20:45:05 -0500" Modified="2018-02-25 21:32:40 -0500" Type="Text">
+                                                    <Title>Fall</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <FileExtension>rtf</FileExtension>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>192,0</TextSelection>
+                                                        <Target Type="Words">0</Target>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem ID="187" UUID="25BEA339-CDF2-4375-A7AA-5E43A55111A3" Created="2018-02-25 20:45:08 -0500" Modified="2018-02-25 21:32:52 -0500" Type="Text">
+                                                    <Title>Jump</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <FileExtension>rtf</FileExtension>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>157,0</TextSelection>
+                                                        <Target Type="Words">0</Target>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem ID="188" UUID="6411BF18-3AB8-431D-8D35-3FB5F96C79A3" Created="2018-02-25 20:45:10 -0500" Modified="2018-02-25 21:33:03 -0500" Type="Text">
+                                                    <Title>Crouch</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <FileExtension>rtf</FileExtension>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>158,0</TextSelection>
+                                                        <Target Type="Words">0</Target>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem ID="189" UUID="C7401F1E-3916-400E-A400-9F140B8590C8" Created="2018-02-25 20:45:12 -0500" Modified="2018-02-25 21:33:13 -0500" Type="Text">
+                                                    <Title>Crouch Walk</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <FileExtension>rtf</FileExtension>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <Target Type="Words">0</Target>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                            </Children>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="62" UUID="1A7FE019-1B91-407B-A62C-D0717CDF5414" Created="2018-02-25 20:13:13 -0500" Modified="2018-02-26 08:57:35 -0500" Type="Text">
+                            <Title>AI</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="91" UUID="B4AF6265-E61A-4F14-BD1A-25DE10B115F8" Created="2018-02-25 20:36:40 -0500" Modified="2018-02-25 21:33:44 -0500" Type="Text">
+                                    <Title>Bot_Best</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>104,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="92" UUID="1FA55BC8-B185-4AAC-8884-18F09ACF4098" Created="2018-02-25 20:36:50 -0500" Modified="2018-02-25 21:33:58 -0500" Type="Text">
+                                            <Title>Wants Health</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>45,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="93" UUID="BBB8CE86-8667-4EA7-A0C0-2292C28027AA" Created="2018-02-25 20:36:56 -0500" Modified="2018-02-25 21:34:08 -0500" Type="Text">
+                                            <Title>Needs Health</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>45,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="94" UUID="488DD6F5-A8E1-40B1-AA33-EE8EDCCD16FC" Created="2018-02-25 20:36:58 -0500" Modified="2018-02-25 21:34:19 -0500" Type="Text">
+                                            <Title>Wants Ammo</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>62,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="95" UUID="10DF862B-BB4C-4E31-8C2A-8E5923B7D3E5" Created="2018-02-25 20:37:03 -0500" Modified="2018-02-25 21:34:42 -0500" Type="Text">
+                                            <Title>Focused Ammo is Full</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>110,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="96" UUID="BE55B6A5-613F-4025-B369-36B962B41D57" Created="2018-02-25 20:37:05 -0500" Modified="2018-02-25 21:35:02 -0500" Type="Text">
+                                            <Title>Focused Powerup is Full</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>119,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="97" UUID="768F297C-8EC4-4845-9167-DD3B172521DB" Created="2018-02-25 20:37:08 -0500" Modified="2018-02-25 21:35:14 -0500" Type="Text">
+                                            <Title>Needs Ammo</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>62,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="98" UUID="28CF76BC-6B4D-4DBE-80AC-C9FBDA7CC65A" Created="2018-02-25 20:37:10 -0500" Modified="2018-02-25 21:35:30 -0500" Type="Text">
+                                            <Title>In Mortal Danger</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>48,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="99" UUID="8770832E-8266-41A9-8B65-80CDE8E6B3BD" Created="2018-02-25 20:37:12 -0500" Modified="2018-02-25 21:35:42 -0500" Type="Text">
+                                            <Title>Has Ammo</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>53,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="100" UUID="AC33F75B-6213-48BF-942C-3C25606BDA82" Created="2018-02-25 20:37:15 -0500" Modified="2018-02-25 21:35:56 -0500" Type="Text">
+                                            <Title>Knows Enemy Location</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>97,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="101" UUID="C438B487-8E21-4533-A1FB-354779869968" Created="2018-02-25 20:37:18 -0500" Modified="2018-02-25 21:36:13 -0500" Type="Text">
+                                            <Title>Suspects Enemy Location</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>70,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="102" UUID="F0887693-2D7E-490F-9023-ECD30383288E" Created="2018-02-25 20:37:20 -0500" Modified="2018-02-25 21:36:33 -0500" Type="Text">
+                                            <Title>In Attack Range of Enemy</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>73,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="103" UUID="A6984C4F-7BFA-45B6-B8F8-F426ACB7383E" Created="2018-02-25 20:37:22 -0500" Modified="2018-02-25 21:36:54 -0500" Type="Text">
+                                            <Title>Focused Bot</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>81,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="104" UUID="619D4693-47C6-40BC-B3D8-18A60812A7F5" Created="2018-02-25 20:37:24 -0500" Modified="2018-02-25 21:37:06 -0500" Type="Text">
+                                            <Title>Focused Bot Forward</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>73,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="105" UUID="B7741072-31E2-48F6-A1A7-9C87F58F56AC" Created="2018-02-25 20:37:26 -0500" Modified="2018-02-25 21:37:13 -0500" Type="Text">
+                                            <Title>Focused Bot Backward</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>75,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="106" UUID="7CB3708E-5385-4AB6-8F00-AAD2E450F8A9" Created="2018-02-25 20:37:29 -0500" Modified="2018-02-25 21:37:33 -0500" Type="Text">
+                                            <Title>Near Another Bot Neither Attacking or Fleeing</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>244,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="107" UUID="23EB347A-EC47-4F1A-B5AE-B3D35165AB1F" Created="2018-02-25 20:37:34 -0500" Modified="2018-02-25 21:37:42 -0500" Type="Text">
+                                            <Title>Near Another Bot that is Attacking</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>225,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="108" UUID="C37A5DED-7A8E-487E-8C0A-3B305F6F75BB" Created="2018-02-25 20:37:37 -0500" Modified="2018-02-25 21:37:53 -0500" Type="Text">
+                                            <Title>Near Another Bot that is Fleeing</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>210,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="109" UUID="421A29E6-4502-46AC-9004-252B537FDC01" Created="2018-02-25 20:37:39 -0500" Modified="2018-02-25 21:38:12 -0500" Type="Text">
+                                            <Title>Focused Health</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>75,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="110" UUID="0A894C38-FD2C-4DF5-9D3D-21DA0CA515CA" Created="2018-02-25 20:37:42 -0500" Modified="2018-02-25 21:38:21 -0500" Type="Text">
+                                            <Title>Near Health</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>86,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="111" UUID="63E8ECE3-5A68-46B7-B427-61C2488324B9" Created="2018-02-25 20:37:45 -0500" Modified="2018-02-25 21:38:32 -0500" Type="Text">
+                                            <Title>Knows Location of Health</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>259,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="112" UUID="6DCB614F-596F-462B-945A-B9B6BA0979E8" Created="2018-02-25 20:37:47 -0500" Modified="2018-02-25 21:38:46 -0500" Type="Text">
+                                            <Title>Bored</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>71,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="113" UUID="22A8BF8B-45B3-4891-9C27-A7F09E8037D4" Created="2018-02-25 20:37:50 -0500" Modified="2018-02-25 21:39:07 -0500" Type="Text">
+                                            <Title>Focused Waypoint</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>74,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="114" UUID="D6211F7B-14A6-47E5-B39C-668B79D4542C" Created="2018-02-25 20:37:53 -0500" Modified="2018-02-25 21:39:25 -0500" Type="Text">
+                                            <Title>Near Waypoint</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>63,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="115" UUID="CA72C590-2842-4ADE-8214-529C04F1C590" Created="2018-02-25 20:37:55 -0500" Modified="2018-02-25 21:39:45 -0500" Type="Text">
+                                            <Title>Far From Home</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>102,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="116" UUID="32A2C95F-6226-4A59-BAD6-FDB01F7D95E2" Created="2018-02-25 20:37:57 -0500" Modified="2018-02-25 21:40:03 -0500" Type="Text">
+                                            <Title>Focused Ammo or Weapon</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>91,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="117" UUID="0B0B3808-BEB5-42B6-ABA2-BCDF82EE7B37" Created="2018-02-25 20:37:59 -0500" Modified="2018-02-25 21:40:12 -0500" Type="Text">
+                                            <Title>Near Ammo or Weapon</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>111,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="118" UUID="ED6BE36F-254E-4AFD-8FFF-9AF126CE27FE" Created="2018-02-25 20:38:02 -0500" Modified="2018-02-25 21:40:27 -0500" Type="Text">
+                                            <Title>Knows Location of Ammo or Weapon</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>299,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="119" UUID="5D65B034-7B37-4EFA-8513-357513B1BDBA" Created="2018-02-25 20:38:04 -0500" Modified="2018-02-25 21:40:44 -0500" Type="Text">
+                                            <Title>Focused Powerup</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>77,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="120" UUID="D08A4369-5B48-4C30-9F76-8F43E0EC8B17" Created="2018-02-25 20:38:07 -0500" Modified="2018-02-25 21:40:56 -0500" Type="Text">
+                                            <Title>Near Powerup</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>90,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="121" UUID="9C85B33C-F205-4195-BE39-2698EAEE76CE" Created="2018-02-25 20:38:10 -0500" Modified="2018-02-25 21:41:06 -0500" Type="Text">
+                                            <Title>Knows Location of Powerup</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>265,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="122" UUID="AA79BB27-B649-4429-BD90-CC11F1673CD6" Created="2018-02-25 20:38:14 -0500" Modified="2018-02-25 21:41:15 -0500" Type="Text">
+                                            <Title>States</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>221,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                            <Children>
+                                                <BinderItem ID="123" UUID="2C907C54-1422-4DCC-B9C0-C45D6E7E879C" Created="2018-02-25 20:38:21 -0500" Modified="2018-02-25 21:41:24 -0500" Type="Text">
+                                                    <Title>Attacking</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <FileExtension>rtf</FileExtension>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>444,0</TextSelection>
+                                                        <Target Type="Words">0</Target>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem ID="124" UUID="3FC61180-D50A-4745-B04C-899CC296665D" Created="2018-02-25 20:38:31 -0500" Modified="2018-02-25 21:41:33 -0500" Type="Text">
+                                                    <Title>Fleeing</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <FileExtension>rtf</FileExtension>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>429,0</TextSelection>
+                                                        <Target Type="Words">0</Target>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem ID="125" UUID="C0D409B5-D1A6-4630-B426-7EA2EC2C8B26" Created="2018-02-25 20:38:34 -0500" Modified="2018-02-25 21:41:52 -0500" Type="Text">
+                                                    <Title>Patrolling</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <FileExtension>rtf</FileExtension>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>822,0</TextSelection>
+                                                        <Target Type="Words">0</Target>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem ID="126" UUID="F15FA83B-9010-4B8B-8938-C3225DC1D141" Created="2018-02-25 20:38:38 -0500" Modified="2018-02-25 21:42:11 -0500" Type="Text">
+                                                    <Title>Wandering</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <FileExtension>rtf</FileExtension>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>720,0</TextSelection>
+                                                        <Target Type="Words">0</Target>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem ID="127" UUID="AA1917C4-B6F1-403C-938C-018582EFE1BF" Created="2018-02-25 20:38:41 -0500" Modified="2018-02-25 21:42:20 -0500" Type="Text">
+                                                    <Title>Finding Health</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <FileExtension>rtf</FileExtension>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>107,0</TextSelection>
+                                                        <Target Type="Words">0</Target>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem ID="128" UUID="1EC8A839-5DE4-477C-9FC2-83646EF3539B" Created="2018-02-25 20:38:44 -0500" Modified="2018-02-25 21:42:32 -0500" Type="Text">
+                                                    <Title>Finding Ammo or Weapon</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <FileExtension>rtf</FileExtension>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>130,0</TextSelection>
+                                                        <Target Type="Words">0</Target>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem ID="129" UUID="C810B4EC-826B-4003-BCEC-E660EC808600" Created="2018-02-25 20:38:46 -0500" Modified="2018-02-25 21:42:42 -0500" Type="Text">
+                                                    <Title>Collecting Health</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <FileExtension>rtf</FileExtension>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>111,0</TextSelection>
+                                                        <Target Type="Words">0</Target>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem ID="130" UUID="298AC2FB-82CD-4086-AC12-412366F8990B" Created="2018-02-25 20:38:48 -0500" Modified="2018-02-25 21:42:52 -0500" Type="Text">
+                                                    <Title>Collecting Ammo or Weapon</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <FileExtension>rtf</FileExtension>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>135,0</TextSelection>
+                                                        <Target Type="Words">0</Target>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem ID="131" UUID="55DD752B-A1F2-43C1-AB7F-82A384DBD5D5" Created="2018-02-25 20:38:50 -0500" Modified="2018-02-25 21:43:03 -0500" Type="Text">
+                                                    <Title>Collecting Powerup</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <FileExtension>rtf</FileExtension>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>114,0</TextSelection>
+                                                        <Target Type="Words">0</Target>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem ID="132" UUID="5FD02559-208E-4EBE-B697-C83D9BC31E80" Created="2018-02-25 20:38:52 -0500" Modified="2018-02-25 21:43:58 -0500" Type="Text">
+                                                    <Title>Defending Teammate</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <FileExtension>rtf</FileExtension>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>263,0</TextSelection>
+                                                        <Target Type="Words">0</Target>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem ID="133" UUID="E3000E98-C5E4-4AA6-9555-D92868903DD2" Created="2018-02-25 20:38:55 -0500" Modified="2018-02-25 21:44:09 -0500" Type="Text">
+                                                    <Title>Attacking With Teammate</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <FileExtension>rtf</FileExtension>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <Target Type="Words">0</Target>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                            </Children>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="63" UUID="E89C58F6-CDAE-4471-AC59-C61FC5BB610C" Created="2018-02-25 20:13:25 -0500" Modified="2018-02-26 08:53:32 -0500" Type="Text">
+                            <Title>Inventory</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="134" UUID="D99436D3-0016-4D2C-A5DC-CA737824434C" Created="2018-02-25 20:39:03 -0500" Modified="2018-02-25 21:44:37 -0500" Type="Text">
+                                    <Title>Key Base</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>8,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="190" UUID="020FDF50-B279-46DA-BD74-0E0AE3784CBF" Created="2018-02-25 20:45:37 -0500" Modified="2018-02-25 21:44:47 -0500" Type="Text">
+                                    <Title>Health Base</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="135" UUID="8563D00C-A9B2-4A9D-A688-F4033D027954" Created="2018-02-25 20:39:12 -0500" Modified="2018-02-25 21:44:57 -0500" Type="Text">
+                                    <Title>Powerup Base</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>12,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="136" UUID="F93D64AE-6B7E-496A-B937-933C424E08BA" Created="2018-02-25 20:39:14 -0500" Modified="2018-02-25 21:45:06 -0500" Type="Text">
+                                    <Title>Ammo Base</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>9,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="137" UUID="3559E476-FC65-4499-9EA9-1DD86781E40B" Created="2018-02-25 20:39:17 -0500" Modified="2018-02-25 21:45:18 -0500" Type="Text">
+                                    <Title>Weapon Base</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>460,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="138" UUID="248D99C3-D83B-4725-913E-CF465778572F" Created="2018-02-25 20:39:23 -0500" Modified="2018-02-25 21:45:32 -0500" Type="Text">
+                                    <Title>Comparison of Weapons</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="65" UUID="F7870B3E-FE1E-4A7A-946D-A3CB8DE470F5" Created="2018-02-25 20:13:44 -0500" Modified="2018-02-26 08:53:44 -0500" Type="Text">
+                            <Title>Physics Mesh Base</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="66" UUID="64A37E2A-F4D9-4A43-A5F7-B1511B4AAF19" Created="2018-02-25 20:13:47 -0500" Modified="2018-02-26 08:53:57 -0500" Type="Text">
+                            <Title>Other Blueprint Objects</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>87,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="139" UUID="7CC709C2-29B3-440B-916B-A8417B9828FE" Created="2018-02-25 20:39:32 -0500" Modified="2018-02-25 21:46:26 -0500" Type="Text">
+                                    <Title>Stair builder</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>285,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="140" UUID="FAA76CC8-C471-424A-AE0A-A679A89DE047" Created="2018-02-25 20:39:38 -0500" Modified="2018-02-25 21:46:45 -0500" Type="Text">
+                                    <Title>Pipe builder</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>12,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="141" UUID="39F7E336-2EB7-451D-BD13-4AF8718D801F" Created="2018-02-25 20:39:41 -0500" Modified="2018-02-25 21:46:56 -0500" Type="Text">
+                                    <Title>Fence builder</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>13,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="143" UUID="23A580DE-DA2F-4C95-A7BF-02C81E00CC44" Created="2018-02-25 20:39:45 -0500" Modified="2018-02-25 21:47:14 -0500" Type="Text">
+                                    <Title>Hose Builder</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>12,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="144" UUID="55FD00EA-2A82-4176-B45F-CD58CE501BC2" Created="2018-02-25 20:40:08 -0500" Modified="2018-02-25 21:47:32 -0500" Type="Text">
+                                    <Title>Railing builder</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>15,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="145" UUID="7EAE1374-D992-4585-A31A-59D509B71B6A" Created="2018-02-25 20:40:11 -0500" Modified="2018-02-25 21:47:50 -0500" Type="Text">
+                                    <Title>Jump pad</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>645,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="146" UUID="0BE15B94-3B63-40E8-9542-2B63F40C3C99" Created="2018-02-25 20:40:14 -0500" Modified="2018-02-25 21:48:01 -0500" Type="Text">
+                                    <Title>Placeable shooters</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>18,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="147" UUID="816A21CF-2CE1-4B7D-BD21-7FD12016567F" Created="2018-02-25 20:40:16 -0500" Modified="2018-02-25 21:48:15 -0500" Type="Text">
+                                    <Title>Day and night skies</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>19,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="148" UUID="492B5E17-B24B-4EA3-A7BB-4797A02E8381" Created="2018-02-25 20:40:18 -0500" Modified="2018-02-25 21:48:29 -0500" Type="Text">
+                                    <Title>Lighted signs</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>13,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="149" UUID="DA67BB7B-4350-4A27-BB28-42D10DA2E69E" Created="2018-02-25 20:40:20 -0500" Modified="2018-02-25 21:48:45 -0500" Type="Text">
+                                    <Title>Monitors</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>8,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="150" UUID="1CC0E43C-AA20-440E-A5BE-3725D807B8CD" Created="2018-02-25 20:40:22 -0500" Modified="2018-02-25 21:48:55 -0500" Type="Text">
+                                    <Title>security cameras</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>16,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="151" UUID="262C6286-500A-4C06-93D2-40DE7988A2D7" Created="2018-02-25 20:40:24 -0500" Modified="2018-02-25 21:49:11 -0500" Type="Text">
+                                    <Title>Teleporter</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>10,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="152" UUID="D5850413-BE76-4970-AA53-7CD59EF388B9" Created="2018-02-25 20:40:26 -0500" Modified="2018-02-25 21:49:34 -0500" Type="Text">
+                                    <Title>Spawner</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>7,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="153" UUID="8511E283-B1D4-4333-8011-5EBFC6497991" Created="2018-02-25 20:40:32 -0500" Modified="2018-02-25 21:49:44 -0500" Type="Text">
+                                    <Title>Fan</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="67" UUID="B30985C2-88DA-4D41-964A-EC3A0F60BA0C" Created="2018-02-25 20:13:52 -0500" Modified="2018-02-26 08:54:23 -0500" Type="Text">
+                            <Title>Sounds</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>145,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="57" UUID="2A8448CE-3EEB-4E66-8F10-2BA5628F7584" Created="2018-02-25 20:12:26 -0500" Modified="2018-02-26 08:54:36 -0500" Type="Text">
+                            <Title>Actor Base</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="10">0,10</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="70" UUID="4263941A-6B6A-4ED7-9CA9-44CA3AB7D208" Created="2018-02-25 20:33:48 -0500" Modified="2018-02-25 21:50:19 -0500" Type="Text">
+                                    <Title>Properties</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>125,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="71" UUID="01BD088F-134E-4C5A-AE1A-52206D5183C1" Created="2018-02-25 20:34:02 -0500" Modified="2018-02-25 21:50:35 -0500" Type="Text">
+                                    <Title>Controllable Objects</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1251,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="72" UUID="5D8F6080-5B6D-48EB-BECE-EE64D4B111B9" Created="2018-02-25 20:34:07 -0500" Modified="2018-02-25 21:51:02 -0500" Type="Text">
+                                            <Title>Doors</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>5,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                            <Children>
+                                                <BinderItem ID="156" UUID="3141569E-B807-4FCC-987E-A62CA93F5DB9" Created="2018-02-25 20:41:42 -0500" Modified="2018-02-25 21:51:10 -0500" Type="Text">
+                                                    <Title>Door Actions</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <FileExtension>rtf</FileExtension>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>397,0</TextSelection>
+                                                        <Target Type="Words">0</Target>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem ID="157" UUID="60A5543B-016B-4E55-83E3-9DA7189EED49" Created="2018-02-25 20:41:49 -0500" Modified="2018-02-25 21:51:18 -0500" Type="Text">
+                                                    <Title>Door Properties</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <FileExtension>rtf</FileExtension>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <Target Type="Words">0</Target>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                            </Children>
+                                        </BinderItem>
+                                        <BinderItem ID="73" UUID="9EF78FD8-42B9-4BB1-8AA5-ABACA67A414E" Created="2018-02-25 20:34:23 -0500" Modified="2018-02-25 21:51:28 -0500" Type="Text">
+                                            <Title>Lights</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>6,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                            <Children>
+                                                <BinderItem ID="158" UUID="86741A5F-C8E7-4A0C-9A73-8F8EBFCED0A3" Created="2018-02-25 20:41:54 -0500" Modified="2018-02-25 21:51:34 -0500" Type="Text">
+                                                    <Title>Light Actions</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <FileExtension>rtf</FileExtension>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>454,0</TextSelection>
+                                                        <Target Type="Words">0</Target>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem ID="159" UUID="F24FA30A-A18D-4152-8225-CE49A16D3A62" Created="2018-02-25 20:42:00 -0500" Modified="2018-02-25 21:51:42 -0500" Type="Text">
+                                                    <Title>Light Properties</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <FileExtension>rtf</FileExtension>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <Target Type="Words">0</Target>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                            </Children>
+                                        </BinderItem>
+                                        <BinderItem ID="74" UUID="C724BCB1-DD3D-4E02-8A60-2C5BDBEC7BC2" Created="2018-02-25 20:34:27 -0500" Modified="2018-02-25 21:51:56 -0500" Type="Text">
+                                            <Title>Switches</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>8,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                            <Children>
+                                                <BinderItem ID="160" UUID="C55DDFA9-52C1-47EF-BC9A-0D0CDEC29265" Created="2018-02-25 20:42:05 -0500" Modified="2018-02-25 21:52:02 -0500" Type="Text">
+                                                    <Title>Switch Actions</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <FileExtension>rtf</FileExtension>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>186,0</TextSelection>
+                                                        <Target Type="Words">0</Target>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem ID="161" UUID="D7C0B2F2-AE71-4654-A3DA-00B693D74C6D" Created="2018-02-25 20:42:14 -0500" Modified="2018-02-25 21:52:11 -0500" Type="Text">
+                                                    <Title>Switch Properties</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <FileExtension>rtf</FileExtension>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <Target Type="Words">0</Target>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                            </Children>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="41" UUID="52943632-0536-4FF3-8398-9DD2A410F4CA" Created="2018-02-25 19:58:54 -0500" Modified="2018-02-26 08:54:50 -0500" Type="Folder">
+                    <Title>Physics</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <StatusID>2</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="154" UUID="39FA4C5A-BFBB-464A-8E24-0CB2C3EC6592" Created="2018-02-25 20:40:40 -0500" Modified="2018-02-25 21:06:25 -0500" Type="Text">
+                            <Title>Collision</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>127,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="155" UUID="056D0CF2-655C-4130-BF75-3AFF721A59FC" Created="2018-02-25 20:41:03 -0500" Modified="2018-02-25 21:06:12 -0500" Type="Text">
+                            <Title>Physical Surfaces</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="42" UUID="8BF19209-E396-453C-AD66-D1629B42FD02" Created="2018-02-25 19:59:06 -0500" Modified="2018-02-26 08:54:58 -0500" Type="Folder">
+                    <Title>Utility</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="43" UUID="01E74A15-FA3C-4534-8F7F-805A9029FFF4" Created="2018-02-25 19:59:12 -0500" Modified="2018-02-26 08:55:22 -0500" Type="Folder">
+                    <Title>Tutorials</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="68" UUID="DF4DA294-7AA1-4E82-9B95-6398FE6D0E2D" Created="2018-02-25 20:14:09 -0500" Modified="2018-02-25 21:07:11 -0500" Type="Text">
+                            <Title>Make A New Touchplate Switch</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>628,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="64" UUID="516223DA-A551-4049-A0A9-817BC34F56D8" Created="2018-02-25 20:13:38 -0500" Modified="2018-02-25 21:07:06 -0500" Type="Text">
+                            <Title>New Weapon Creation</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>719,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="29" UUID="B54AB68B-D933-459B-84CD-FEA95A47B22C" Created="2010-10-01 14:05:21 -0500" Modified="2018-02-25 20:59:31 -0500" Type="Text">
+                    <Title>Endnotes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="3" UUID="E683CB63-AE18-404F-B233-CC8825D76E0D" Created="2014-05-10 19:45:48 -0500" Modified="2018-02-25 21:01:11 -0500" Type="Folder">
+            <Title>Front Matter</Title>
+            <MetaData>
+                <LabelID>2</LabelID>
+                <StatusID>2</StatusID>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Front Matter.tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="36" UUID="0677725D-2DC3-4BE8-9C6B-8AECD0CF4148" Created="2015-09-23 20:40:00 -0500" Modified="2018-02-26 08:55:37 -0500" Type="Text">
+                    <Title>Title Page</Title>
+                    <MetaData>
+                        <StatusID>6</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <CompileAsIs>Yes</CompileAsIs>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>131,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="30" UUID="10F8E55A-B584-4B82-A308-C7D44200A058" Created="2011-07-07 12:49:22 -0500" Modified="2011-07-07 13:31:19 -0500" Type="Text">
+                    <Title>Foreword</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="31" UUID="D1E1A0C5-717C-4AD5-95E2-B886C7C0677B" Created="2011-07-07 12:58:53 -0500" Modified="2018-02-25 21:16:47 -0500" Type="Text">
+                    <Title>Contents</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <CompileAsIs>Yes</CompileAsIs>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>108,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="69" UUID="B4130346-1B69-48B8-8CEE-8F3BA55B48B8" Created="2018-02-25 20:16:48 -0500" Modified="2018-02-25 20:19:48 -0500" Type="Folder">
+            <Title>Spreadsheets</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Tables.tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <References>
+                <Reference Destination="file:///D:/Documents/Repos/Deplorable_Mountaineer/Spreadsheets/Architectural.ods">Architectural.ods</Reference>
+                <Reference Destination="file:///D:/Documents/Repos/Deplorable_Mountaineer/Spreadsheets/Character.ods">Character.ods</Reference>
+                <Reference Destination="file:///D:/Documents/Repos/Deplorable_Mountaineer/Spreadsheets/CharacterCapabilitiesComputed.ods">CharacterCapabilitiesComputed.ods</Reference>
+                <Reference Destination="file:///D:/Documents/Repos/Deplorable_Mountaineer/Spreadsheets/CharacterState.ods">CharacterState.ods</Reference>
+                <Reference Destination="file:///D:/Documents/Repos/Deplorable_Mountaineer/Spreadsheets/Collision.ods">Collision.ods</Reference>
+                <Reference Destination="file:///D:/Documents/Repos/Deplorable_Mountaineer/Spreadsheets/DefaultActionBindings.ods">DefaultActionBindings.ods</Reference>
+                <Reference Destination="file:///D:/Documents/Repos/Deplorable_Mountaineer/Spreadsheets/DefaultAxisBindings.ods">DefaultAxisBindings.ods</Reference>
+                <Reference Destination="file:///D:/Documents/Repos/Deplorable_Mountaineer/Spreadsheets/DefaultCharacterProperties.ods">DefaultCharacterProperties.ods</Reference>
+                <Reference Destination="file:///D:/Documents/Repos/Deplorable_Mountaineer/Spreadsheets/DefaultPlayerCharacter.ods">DefaultPlayerCharacter.ods</Reference>
+                <Reference Destination="file:///D:/Documents/Repos/Deplorable_Mountaineer/Spreadsheets/MaterialParameters.ods">MaterialParameters.ods</Reference>
+                <Reference Destination="file:///D:/Documents/Repos/Deplorable_Mountaineer/Spreadsheets/Materials.ods">Materials.ods</Reference>
+                <Reference Destination="file:///D:/Documents/Repos/Deplorable_Mountaineer/Spreadsheets/PhysicalSurfaces.ods">PhysicalSurfaces.ods</Reference>
+                <Reference Destination="file:///D:/Documents/Repos/Deplorable_Mountaineer/Spreadsheets/Sounds.ods">Sounds.ods</Reference>
+                <Reference Destination="file:///D:/Documents/Repos/Deplorable_Mountaineer/Spreadsheets/Weapon.ods">Weapon.ods</Reference>
+                <Reference Destination="file:///D:/Documents/Repos/Deplorable_Mountaineer/Spreadsheets/Weapon_Comparison.ods">Weapon_Comparison.ods</Reference>
+            </References>
+        </BinderItem>
+        <BinderItem ID="28" UUID="1EA4671A-226E-4DFC-B501-6A0E7FDA5205" Created="2010-10-29 13:50:27 -0500" Modified="2010-10-29 14:14:27 -0500" Type="Folder">
+            <Title>Notes</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Notes (Blue Notepad).png</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+        </BinderItem>
+        <BinderItem ID="27" UUID="E4D250BF-8047-4F88-BE3A-F9D65F8DA7E9" Created="2010-10-29 14:14:01 -0500" Modified="2010-10-29 14:14:04 -0500" Type="Folder">
+            <Title>Ideas</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Light Bulb.png</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem ID="1" UUID="89491C59-BBFC-4A32-8C42-371D9DC8897E" Created="2006-11-04 12:27:29 -0500" Modified="2006-11-04 12:27:29 -0500" Type="ResearchFolder">
+            <Title>Research</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <Children>
+                <BinderItem ID="193" UUID="9810B2E8-070C-49DB-9C01-8179495D398A" Created="2018-02-26 09:05:20 -0500" Modified="2018-02-26 09:05:21 -0500" Type="PDF">
+                    <Title>ClassicFPS_GPDD</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>1</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="2" UUID="4BBDD91D-1155-4B22-97DD-D74FBA80A27D" Created="2006-11-04 12:27:29 -0500" Modified="2006-11-04 12:27:29 -0500" Type="TrashFolder">
+            <Title>Trash</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="7" UUID="0DE825EB-3332-4E5E-B7DF-387DC78312DD" Created="2014-05-13 03:59:47 -0500" Modified="2014-05-13 04:16:31 -0500" Type="PDF">
+                    <Title>Sample MS</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>1</CurrentPDFPage>
+                    </MediaSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="1" Color="0.952941 0.917647 0.329412">Idea</Label>
+            <Label ID="5" Color="0.894118 0.529412 0.219608">Notes</Label>
+            <Label ID="6" Color="0.913725 0.098039 0.184314">Research</Label>
+            <Label ID="2" Color="0.282353 0.701961 0.000000">Chapter</Label>
+            <Label ID="4" Color="0.274510 0.556863 1.000000">Sub-Section</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="6">Title Page</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets>
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2018-02-26 14:45:17 -0500"/>
+    </ProjectTargets>
+    <Collections>
+        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.901961 0.901961 0.980392">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No">non-fiction format</SearchSettings>
+        </Collection>
+    </Collections>
+    <PrintSettings PaperType="Letter" LeftMargin="72.0001" RightMargin="72.0001" TopMargin="90.0002" BottomMargin="90.0002" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+</ScrivenerProject>

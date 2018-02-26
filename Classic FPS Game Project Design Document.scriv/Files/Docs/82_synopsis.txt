@@ -1,0 +1,1 @@
+Spreadsheet for estimating things like hjump distance, etc. of a character

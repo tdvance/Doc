@@ -1,0 +1,1 @@
+Objects that can be controlled by a switch object 

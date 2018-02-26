@@ -1,0 +1,1 @@
+State when character is jumping while running

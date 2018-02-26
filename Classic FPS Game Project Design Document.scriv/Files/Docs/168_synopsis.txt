@@ -1,0 +1,1 @@
+Index of the weapon currently held, or 0 if no weapon.

@@ -1,0 +1,1 @@
+Knows where a health pickup (likely) is

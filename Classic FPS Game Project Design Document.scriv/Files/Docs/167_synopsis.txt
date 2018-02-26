@@ -1,0 +1,1 @@
+Character strength--affects speeds and distances for character motion as well as damage taken.  For the player, increases swith experience

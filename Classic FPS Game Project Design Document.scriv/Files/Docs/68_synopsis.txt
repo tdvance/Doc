@@ -1,0 +1,1 @@
+Example of a switch object: a character-operated touchplate

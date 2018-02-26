@@ -1,0 +1,1 @@
+Reloads a character's weapon

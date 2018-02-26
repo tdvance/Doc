@@ -1,0 +1,2 @@
+Hierarchy of asset-containing folders in the UE4 editor
+

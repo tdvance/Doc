@@ -1,0 +1,1 @@
+Objects (with only basic functionality) that can be placed in a game level

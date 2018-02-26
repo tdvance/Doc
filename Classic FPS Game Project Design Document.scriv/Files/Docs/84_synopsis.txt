@@ -1,0 +1,1 @@
+Analog Key, mouse, etc. bindings, such as turning or looking up and down

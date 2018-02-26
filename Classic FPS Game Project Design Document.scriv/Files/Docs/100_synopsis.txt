@@ -1,0 +1,1 @@
+Bot knows where the enemy is (generally, means can see enemy)

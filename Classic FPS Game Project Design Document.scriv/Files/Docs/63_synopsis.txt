@@ -1,0 +1,1 @@
+Anything that can be picked up that changes the status of a character
