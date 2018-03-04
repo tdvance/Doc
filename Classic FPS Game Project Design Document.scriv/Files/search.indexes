@@ -4,9 +4,6 @@
         <Document ID="3">
             <Title>Front Matter</Title>
         </Document>
-        <Document ID="7">
-            <Title>Sample MS</Title>
-        </Document>
         <Document ID="12">
             <Title>Non-Fiction Format</Title>
             <Text>NON-FICTION WITH SUB-HEADS
@@ -232,7 +229,7 @@ All assets made in tutorials are in a folder “Solutions/Tutorials” under the
         <Document ID="46">
             <Title>Material Bases</Title>
             <Synopsis>Shaders used to create materials for this project</Synopsis>
-            <Text>Material Bases</Text>
+            <Text>Materials</Text>
         </Document>
         <Document ID="51">
             <Title>PBR Settings</Title>
@@ -246,7 +243,12 @@ file:///D:/Documents/Repos/Deplorable_Mountaineer/Spreadsheets/Materials.ods
             <Title>Material Masters</Title>
             <Synopsis>Master shaders that are parents of material instances</Synopsis>
             <Text>Material Masters
-Base, Translucent_Expensive, Mask</Text>
+Base
+Most materials use this shader; has parameters for almost everything
+Translucent_Expensive
+A shader for translucent materials using the most expensive operations; use sparingly
+Mask
+A shader for RGB material masks</Text>
         </Document>
         <Document ID="53">
             <Title>Parameter Names</Title>
@@ -259,36 +261,102 @@ file:///D:/Documents/Repos/Deplorable_Mountaineer/Spreadsheets/MaterialParameter
             <Title>Material Functions and Layers</Title>
             <Synopsis>Shader functionality for materials</Synopsis>
             <Text>Material Functions and Layers
-MF_MaskLerpRGB</Text>
+MF_MaskLerpRGB
+A function used for making complex RGB masked materials with smooth transitions</Text>
         </Document>
         <Document ID="55">
             <Title>Textures</Title>
             <Synopsis>Images used for materials</Synopsis>
             <Text>Textures
-Crosshairs: Cross, X, Dot, Triangle, Trefoil, Box, Circle, Rangefinder
-Metal: dimpled, rough and scratchy, Rusty, Holey, verdigris, Brushed, galvanized, Corrugated, Grate, Fence, Louvred Vent, Duct
-Rock: smooth, conglomerate, Sandy, Gravelly, Pitted, jagged, marble, slate, limestone, Granite, Sandstone
-Icons: Default, Actor, Character, Weapon, Carryable
-Cloth: Fine Weave, Coarse Weave, Carpet
-Decals: bullet holes, footprints, Stain, signs, puddles, Dirt, Scratches,TODO
-Wall: Plaster, wood, wood with grain, particleboard, Wood with knots,TODO brick, concrete, concrete block, Stone
-Floor: tiles of various types and shapes, cobblestone, Concrete, Concrete grime, Concrete Panels, Concrete Tiles, Concrete grooved, Concrete Pitted, Concrete Plank-like TODO
-Painted metal, colored glass, patterned cloth, etcTODO
-.
-Leather, Rubber, Plastic, Ceramic, etc. to match PhysMats
+Crosshairs
+Cross￼
+X￼
+Dot￼
+Triangle￼
+Trefoil￼
+Box￼
+Circle￼
+Rangefinder￼
+Box Cross￼
+Box Dot￼
+Box X￼
+Circle Cross￼
+Circle Dot￼
+Circle X￼
 
-Ground: Dirt, Mud, Gravel, Grass, Snow, Patchy Grass, Ice, Dirty Ice, Rough Ice, Dirty Snow, Patchy Snow, Exposed Rock, muddy rocks, Moss, Dirt and Pebbles,TODO
+Metal
+dimpled, rough and scratchy, Rusty, Holey, verdigris, Brushed, galvanized, Corrugated, Grate, Fence, Louvred Vent, Duct
+Rock
+smooth, conglomerate, Sandy, Gravelly, Pitted, jagged, marble, slate, limestone, Granite, Sandstone
+Icons
+Ammo￼
+Up Arrow￼
+Carryable￼
+Controllable￼
+Controller  ￼
+Door ￼
+Health￼
+Key￼
+Light  ￼
+Sky   ￼
+Pawn   ￼
+Ruler￼
+Shield￼
+Stairs   ￼
+Strength￼
+Switch￼
+Weapon   ￼
+
+Cloth
+Fine Weave, Coarse Weave, Carpet
+Decals
+bullet holes, footprints, Stain, signs, puddles, Dirt, Scratches,TODO
+Wall
+Plaster, wood, wood with grain, particleboard, Wood with knots,TODO brick, concrete, concrete block, Stone
+Floor
+tiles of various types and shapes, cobblestone, Concrete, Concrete grime, Concrete Panels, Concrete Tiles, Concrete grooved, Concrete Pitted, Concrete Plank-like TODO
+Ground
+Dirt, Mud, Gravel, Grass, Snow, Patchy Grass, Ice, Dirty Ice, Rough Ice, Dirty Snow, Patchy Snow, Exposed Rock, muddy rocks, Moss, Dirt and Pebbles,TODO
  Ground with Foliage
-Utility: noise, clouds, gradients
+Utility
+noise, clouds, gradients
+Other
+Painted metal, colored glass, patterned cloth, etcTODO
+Leather, Rubber, Plastic, Ceramic, etc. to match PhysMats
 Hazard patterns
 Grids and tile patterns, hex and square, etc.  Holey patterns, Vent louvre patterns, etc.
-Diamond Plate, Duct, Planks, Parquet</Text>
+Diamond Plate, Duct, Planks, Parquet
+</Text>
         </Document>
         <Document ID="56">
             <Title>Particles</Title>
             <Synopsis>In-game particle effects</Synopsis>
             <Text>ParticlesTODO
-Explosions, Hit effect, sparks (fire, electric, hammered metal), Fires, Beams, Projectile particles, Splash from water, slime, lava, Snow, Steam, Smoke,  Lightning, Shrapnel, Gibs, Dust, Contrail, Light halo,</Text>
+Explosions
+￼
+Hit effect
+Sparks
+￼ ￼
+Fires
+￼
+Beams
+￼￼￼￼
+Projectile particles
+Splash from water
+Slime
+Lava
+Snow
+￼
+Steam
+Smoke
+￼
+Lightning
+Shrapnel
+Gibs
+Dust
+￼
+Contrail
+Light halo</Text>
         </Document>
         <Document ID="57">
             <Title>Actor Base</Title>
@@ -306,16 +374,21 @@ file:///D:/Documents/Repos/Deplorable_Mountaineer/Spreadsheets/Architectural.ods
             <Title>Static Meshes</Title>
             <Synopsis>Objects (with only basic functionality) that can be placed in a game level</Synopsis>
             <Text>Static Meshes
-Window,
-Shapes: Cube, sphere, slope, Square pyramid, Tetrahedron, Octahedron, Icosahedron, Torus, Plane, Cube Chamfer, Cube Inset, Cone, Platform, Circular platform, Platforms of various polygon shapes, Annular platform, Arrows
-Arch: Walls, Walls with window/door openings
+Window
+￼ ￼￼
+Shapes
+Cube, sphere, slope, Square pyramid, Tetrahedron, Octahedron, Icosahedron, Torus, Plane, Cube Chamfer, Cube Inset, Cone, Platform, Circular platform, Platforms of various polygon shapes, Annular platform, Arrows
+Arch 
+Walls, Walls with window/door openings
 Pipes and joints, fence parts,. Stair parts, hose parts
+Props
 Barrels, Crates, including exploding barrel, Boxes, bags
 Bricks, Cement blocks, Rocks, Boulders
-Foliage
 Cones, Saw horses, Signs, Manhole covers
 Trash cans, chairs, desks, tables, Benches, Couches, Barstools,
-Grates, vents,</Text>
+Grates, vents,
+Foliage
+</Text>
         </Document>
         <Document ID="60">
             <Title>Gameplay Base</Title>
@@ -574,7 +647,7 @@ Name</Text>
             <Synopsis>Visual, audio, etc. effects for various game events</Synopsis>
             <Text>Gameplay Effects
 Hurt screen
-Red tint, red dirt mask, extreme vignetting, extreme chromatic abberation; effect stronger as health decreases
+Red tint, red dirt mask, extreme vignetting, extreme chromatic aberration; effect stronger as health decreases
 
 Dead screen
 Night Vision screen
@@ -639,7 +712,8 @@ Note that there is currently a bug (as of Version 4.18.3) in UE4 that causes the
 A character has a BP_Character_Base as its parent, which in turn has the built-in Character class as its parent.  Thus it already comes with a Capsule component as its root, as well as an arrow component (for convenience), and a skeletal mesh component.  It also has a character movement component.
 The assets in this project are designed for a character 192cm high and 84cm wide, so the capsule half-height is 96, and the capsule radius is 42.   One can use a different-sized character, but things like doorway sizes might have to be adjusted.
 The camera boom is attached to the capsule component, and the camera is attached to the camera boom.  By shortening the camera boom to 0 length, we achieve first-person mode; otherwise, there is an adjustable-length boom third person mode.
-The camera has a first-person arms mesh attached to it, visible only to the owning player and in first person mode (in which the other mesh, the third-person mesh, is made invisible to the owning player, but not to others).</Text>
+The camera has a first-person arms mesh attached to it, visible only to the owning player and in first person mode (in which the other mesh, the third-person mesh, is made invisible to the owning player, but not to others).
+The camera also has a box volume attached to it, which in turn has postprocessing components attached for various in-game effects.</Text>
         </Document>
         <Document ID="88">
             <Title>Character Operating Items</Title>
@@ -1111,8 +1185,8 @@ if closed and unlocked and not reversible, open (note sliding doors typically no
             <Synopsis>Variables a door maintains</Synopsis>
             <Text>Door Properties
 Auto Close Delay: if 0, never auto close, otherwise after delay of that many seconds
-Open Speed
-Close Speed
+Open Speed: might not be supported on all doors
+Close Speed: might not be supported on all doors
 Auto Open: if character is in trigger volume, opens automatically
 Auto Open Reverse: if character is in reverse trigger volume, opens automatically in reverse
 Operatable: “operate” opens the door; otherwise need to find a switch somewhere.
@@ -1404,166 +1478,55 @@ Company: Deplorable Mountaineer
 Website: https://deplorablemountain.wixsite.com/games
 Copyright: © 2018 Deplorable Mountaineer
 Contact: Deplorable.Mountaineer@gmail.com
-Palette Colors: #38c098, #F8BE00, #B52930, #10655E, #ffffff, #42484f, #1EF858, #F89245, #A057F8, #45F8B5, #613F29
+Palette Colors: #38c098 (Shamrock), #F8BE00 (Amber), #B52930 (Tall Poppy), #10655E (Eden), #ffffff (White), #42484f (Mako), #1EF858 (Malachite), #F89245 (Tan Hide), #A057F8 (Heliotrope), #45F8B5 (Aquamarine), #613F29 (Irish Coffee)
 ￼
 
 Palette Gradient:
 ￼</Text>
-            <Notes>
-
-</Notes>
         </Document>
         <Document ID="192">
             <Title>Folder Structure Body</Title>
             <Text>Under Content:
-├───AnimStarterPack
-│   └───UE4_Mannequin
-│       ├───Materials
-│       │   └───MaterialLayers
-│       ├───Mesh
-│       └───Textures
-├───ClassicFPS
-│   ├───Base
-│   │   ├───Blueprints
-│   │   ├───Icons
-│   │   ├───MaterialMasters
-│   │   │   ├───Data
-│   │   │   └───Functions
-│   │   └───Physmats
-│   │       └───Data
-│   ├───Characters
-│   │   ├───Animations
-│   │   │   ├───AnimationSequences
-│   │   │   ├───Blueprints
-│   │   │   └───FirstPerson
-│   │   ├───Data
-│   │   ├───Materials
-│   │   │   └───Textures
-│   │   ├───NPC
-│   │   │   └───Data
-│   │   └───Player
-│   │       └───Data
-│   ├───Dev
-│   ├───Effects
-│   │   ├───Controllable
-│   │   ├───Materials
-│   │   │   ├───Ceramic
-│   │   │   ├───Data
-│   │   │   ├───Decals
-│   │   │   │   └───Textures
-│   │   │   ├───Fabric
-│   │   │   │   └───Textures
-│   │   │   ├───FloorCeiling
-│   │   │   │   └───Textures
-│   │   │   ├───FluidAndIce
-│   │   │   ├───Glass
-│   │   │   │   └───Textures
-│   │   │   ├───Glow
-│   │   │   ├───Ground
-│   │   │   │   └───Textures
-│   │   │   ├───Metal
-│   │   │   │   ├───Painted
-│   │   │   │   │   └───Textures
-│   │   │   │   └───Textures
-│   │   │   ├───Paper
-│   │   │   │   └───Textures
-│   │   │   ├───Plastic
-│   │   │   ├───Rock
-│   │   │   │   └───Textures
-│   │   │   ├───Rubber
-│   │   │   │   └───Textures
-│   │   │   ├───Special
-│   │   │   ├───Textures
-│   │   │   ├───Wall
-│   │   │   │   └───Textures
-│   │   │   └───Wood
-│   │   │       └───Textures
-│   │   └───Particles
-│   │       └───Materials
-│   ├───Environment
-│   │   ├───Background
-│   │   ├───Buildings
-│   │   │   ├───Commercial
-│   │   │   ├───Fixtures
-│   │   │   ├───Furniture
-│   │   │   ├───Pipes
-│   │   │   └───Residential
-│   │   ├───Foliage
-│   │   ├───Landscape
-│   │   │   └───Rocks
-│   │   ├───Props
-│   │   │   ├───Lights
-│   │   │   │   └───Meshes
-│   │   │   ├───Meshes
-│   │   │   └───Shapes
-│   │   ├───Sky
-│   │   └───Water
-│   ├───Gameplay
-│   ├───Maps
-│   │   ├───Episode_01
-│   │   ├───Episode_02
-│   │   ├───Episode_03
-│   │   └───TestMaps
-│   ├───Pickups
-│   │   ├───Health
-│   │   ├───Keys
-│   │   ├───Powerups
-│   │   │   └───Permanent
-│   │   └───Weapons
-│   │       ├───Ammo
-│   │       ├───Materials
-│   │       │   └───Textures
-│   │       │       └───Crosshairs
-│   │       └───Rifle
-│   ├───PostProcess
-│   ├───Sound
-│   ├───UI
-│   │   ├───HUD
-│   │   │   └───Materials
-│   │   ├───MainMenu
-│   │   │   └───Materials
-│   │   ├───Monitor
-│   │   └───PauseMenu
-│   └───Vehicles
-├───Collections
-├───Developers
-│   └───tdvance
-│       └───Collections
-├───FirstPerson
-│   ├───Animations
-│   ├───Audio
-│   ├───Character
-│   │   ├───Materials
-│   │   │   └───MaterialLayers
-│   │   ├───Mesh
-│   │   └───Textures
-│   ├───FPWeapon
-│   │   ├───Materials
-│   │   │   └───MaterialLayers
-│   │   ├───Mesh
-│   │   └───Textures
-│   ├───Meshes
-│   └───Textures
-├───FirstPersonBP
-│   ├───Blueprints
-│   └───Maps
-├───Geometry
-│   └───Meshes
-├───Mannequin
-│   ├───Animations
-│   └───Character
-│       ├───Materials
-│       │   └───MaterialLayers
-│       ├───Mesh
-│       └───Textures
-├───ThirdPerson
-│   └───Meshes
-└───ThirdPersonBP
-    ├───Blueprints
-    └───Maps</Text>
+file://D:\\Documents\\Repos\\Deplorable_Mountaineer\\UE4\\ClassicFPS\\Content</Text>
         </Document>
         <Document ID="193">
             <Title>ClassicFPS_GPDD</Title>
+        </Document>
+        <Document ID="194">
+            <Title>Development Utilities</Title>
+            <Text>Development Utilities
+
+BP_Material_Preview
+For previewing a material; see the Content/ClassicFPS/Maps/TestMaps/Overview_Materials map for examples.
+BP_Physmat_Preview
+For previewing a material’s physmat properties; see the Content/ClassicFPS/Maps/TestMaps/Overview_Materials map for examples.
+BP_Ruler
+For measuring distances in a level.  Place the BP_Ruler at one place, and place any actor (such as the Target Point actor) at another, then with the BP_Ruler selected, change the Measure From Actor property to the actor you just placed.  In the level, the BP_Ruler will display the Z distance (height) from the other actor.
+M_ColorGrid
+For checking the UV of a mesh.  Just apply the material to the mesh you want to check.
+M_ColorGrid_TileTest
+Another UV-testing material, with irregular tiles so correct tiling can be verified.</Text>
+        </Document>
+        <Document ID="195">
+            <Title>Make a Door</Title>
+            <Text>Place a Door
+
+In a level, create a wall.
+Place a Box (Geometry Brush) in the level.  Change its size to something wall-like such as X=1000, Y=20, Z=1000 (under Brush Settings in the Details panel).
+Create the doorway in the wall.
+Place a box (Geometry Brush) that intersects the wall.  The size should be X=100, y=100, z=200
+Make sure the box is sitting on the floor and intersects the wall, sticking out on both sides.
+Change the Brush Type (under Brush Settings in the Details panel) to Subtractive.
+Verify that it looks right.  Optionally place materials (such as Plaster) on the surfaces.
+Find the Content/ClassicFPS/Environment/Buildings/Residential/BP_Door_Swing asset and place it in the doorway.
+Move it,  and if necessary, rotate it to make it fit the doorway.
+Optionally, change the materials on the door.
+Test the level.
+You can use right-click, Play From Here to play right at the door you installed.
+Test that it opens when the Operate key (default: E or F) is pressed, and closes when operated as well.
+Also check that you can walk through the door (if not, something is off with collision, or your character is not the standard size!)
+
+￼</Text>
         </Document>
     </Documents>
 </SearchIndexes>
