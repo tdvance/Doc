@@ -1,1 +1,0 @@
-How far the following camera is behind the player

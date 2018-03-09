@@ -1,1 +1,0 @@
-The powerup pickup the bot is focused on cannot be used because the bot is full on that powerup charge

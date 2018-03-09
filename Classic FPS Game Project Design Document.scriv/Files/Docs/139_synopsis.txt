@@ -1,1 +1,0 @@
-Stairs with an arbitrary number of steps

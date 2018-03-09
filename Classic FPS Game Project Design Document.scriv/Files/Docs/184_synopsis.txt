@@ -1,1 +1,0 @@
-State when character is walking or running

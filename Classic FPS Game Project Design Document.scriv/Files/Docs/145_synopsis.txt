@@ -1,1 +1,0 @@
-Launches a character to somewhere else

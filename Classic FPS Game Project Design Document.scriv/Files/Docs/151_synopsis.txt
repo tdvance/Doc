@@ -1,1 +1,0 @@
-Transmits actors across the level instantaneously

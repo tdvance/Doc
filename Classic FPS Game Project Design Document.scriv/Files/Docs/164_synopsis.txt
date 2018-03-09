@@ -1,1 +1,0 @@
-Menu that can be opened from within a game

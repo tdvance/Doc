@@ -1,1 +1,0 @@
-Shader functionality for materials

@@ -1,1 +1,0 @@
-A humanoid game entity, either the player or a computer-controlled enemy, or even other types of pawns.

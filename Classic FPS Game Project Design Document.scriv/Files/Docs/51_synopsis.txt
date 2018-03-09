@@ -1,1 +1,0 @@
-Physically-Based Rendering settings for certain common materials

@@ -1,1 +1,0 @@
-The character's health--0 means dead, 100 means full health, and more than 100 is super-health

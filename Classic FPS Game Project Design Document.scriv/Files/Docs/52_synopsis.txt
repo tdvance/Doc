@@ -1,1 +1,0 @@
-Master shaders that are parents of material instances

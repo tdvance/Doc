@@ -1,1 +1,0 @@
-Switches: controls a controllable, and is also itself a controllable

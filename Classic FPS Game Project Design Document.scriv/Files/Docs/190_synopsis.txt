@@ -1,1 +1,0 @@
-Increases a character's health

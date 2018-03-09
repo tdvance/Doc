@@ -1,1 +1,0 @@
-State when character crouches from standing idle

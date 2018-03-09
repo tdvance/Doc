@@ -1,1 +1,0 @@
-The default AI bot for humanoid enemies

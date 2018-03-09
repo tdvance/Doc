@@ -1,1 +1,0 @@
-Messages that entities in the game can send to each other
